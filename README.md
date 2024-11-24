@@ -2,6 +2,8 @@
 
 A modern, production-ready template for building full-stack React applications using React Router.
 
+[![IT Man - Tech Radars: Latest Innovations in Tailwind CSS v4, React Router v7 &amp; TanStack Start Beta](https://i.ytimg.com/vi/F08OKQultWo/hqdefault.jpg)](https://www.youtube.com/watch?v=F08OKQultWo)
+
 ## Features
 
 - 🚀 Server-side rendering
