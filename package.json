@@ -10,17 +10,17 @@
 		"typecheck": "react-router typegen && tsc --build --noEmit"
 	},
 	"dependencies": {
-		"@react-router/node": "7.9.5",
-		"@react-router/serve": "7.9.5",
+		"@react-router/node": "7.9.6",
+		"@react-router/serve": "7.9.6",
 		"@tailwindcss/vite": "4.1.17",
 		"isbot": "5.1.32",
 		"react": "18.3.1",
 		"react-dom": "18.3.1",
-		"react-router": "7.9.5"
+		"react-router": "7.9.6"
 	},
 	"devDependencies": {
 		"@biomejs/biome": "1.9.4",
-		"@react-router/dev": "7.9.5",
+		"@react-router/dev": "7.9.6",
 		"@types/node": "22.19.1",
 		"@types/react": "18.3.26",
 		"@types/react-dom": "18.3.7",
